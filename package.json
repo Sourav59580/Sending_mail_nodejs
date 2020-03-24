@@ -1,0 +1,18 @@
+{
+  "name": "sendingmail",
+  "version": "1.0.0",
+  "description": "this is a small project",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sourav",
+  "license": "ISC"
+}
